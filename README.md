@@ -51,3 +51,25 @@ Storage for publications (presentations and papers)
     year        = {2010}
 }
 ```
+
+[PMIx: Process Management for Exascale Systems](EuroMPI-2017-Presentation.pdf)
+
+```
+@inproceedings{DBLP:conf/pvm/CastainSHB17,
+  author    = {Ralph H. Castain and
+               David G. Solt and
+               Joshua Hursey and
+               Aurelien Bouteiller},
+  title     = {PMIx: process management for exascale environments},
+  booktitle = {Proceedings of the 24th European {MPI} Users' Group Meeting, EuroMPI/USA
+               2017, Chicago, IL, USA, September 25-28, 2017},
+  pages     = {14:1--14:10},
+  year      = {2017},
+  crossref  = {DBLP:conf/pvm/2017},
+  url       = {http://doi.acm.org/10.1145/3127024.3127027},
+  doi       = {10.1145/3127024.3127027},
+  timestamp = {Thu, 24 Aug 2017 13:01:59 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/pvm/CastainSHB17},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+```
