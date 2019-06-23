@@ -1,22 +1,6 @@
 # publications
 Storage for publications (presentations and papers)
 
-<table>
- <tr>
-  <th>Name</th>
-  <th>Favorite Color</th>
- </tr>
- <tr>
-  <td>Bob</td>
-  <td>Yellow</td>
- </tr>
- <tr>
-  <td>Michelle</td>
-  <td>Purple</td>
- </tr>
-</table>
-
-
 [Bib references]
 
 [Scalable Runtime for MPI: Efficiently Building the Communication Infrastructure](2011_Scalable-Runtime-for-MPI.pdf)
