@@ -1,6 +1,15 @@
 # publications
 Storage for publications (presentations and papers)
 
+TESTTABLE
+
+|:---------------------:|:-----------------:|:-------------------------:|
+| Intel (Ralph Castain) | IBM (Josh Hursey) | Mellanox (Artem Polyakov) |
+| LANL (Howard Pritchard) | Altair (Mike Karo) | Fujitsu Limited (Takahiro) |
+| UT-K (Aurelien) | Stonybrook (Anthony Curtis) | ORNL (Thomas Naughton) |
+| ARM (Dirk Schubert) | RogueWave (John DelSignore) |    |
+
+
 [Bib references]
 
 [Scalable Runtime for MPI: Efficiently Building the Communication Infrastructure](2011_Scalable-Runtime-for-MPI.pdf)
